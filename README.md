@@ -233,5 +233,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Vinit Sharma** - [vdsharma_m24@ce.vjti.ac.in](mailto:vdsharma_m24@ce.vjti.ac.in)
-- **Project Link**: [https://github.com/yourusername/Hybrid-QVLM](https://github.com/yourusername/Hybrid-QVLM)
+- **Project Link**: [https://github.com/yourusername/Hybrid-QVLM](https://github.com/sVinit108/Hybrid-QVLM)
 
