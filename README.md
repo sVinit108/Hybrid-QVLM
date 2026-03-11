@@ -1,5 +1,5 @@
 # Hybrid-Quantum-Vision-Language-Modeling-Hybrid-QVLM
-manuscript with Editor at Knowledge-Based Systems (Elsevier), 2026 
+manuscript under preparation.
 (Code to be soon uploaded)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
