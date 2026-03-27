@@ -1,5 +1,4 @@
 # Hybrid-Quantum-Vision-Language-Modeling-Hybrid-QVLM
-Under Editorial review at Neural Networks (Elsevier), 2026
 (Code to be soon uploaded)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
