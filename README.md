@@ -219,7 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **TorchQuantum** for quantum circuit simulation
 - **Hugging Face** for datasets and transformers library
