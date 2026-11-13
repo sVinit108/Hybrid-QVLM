@@ -26,9 +26,9 @@
 
 | Dataset | Val Accuracy | CIDEr | BLEU-4 | Epochs | Active Params |
 |---------|--------------|-------|--------|--------|---------------|
-| **VQA v2** | 72.20% | 0.6635 | 0.2157 | 3 | 288M |
-| **Food-101** | 91.54% | 0.7665 | 0.4284 | 2 | 288M |
-| **DiffusionDB** | 62.52% | 1.8057 | 0.3299 | 5 | 288M |
+| **VQA v2** | 78.11% | 1.392 | 0.268 | 11 | 288M |
+| **Food-101** | 94.22% | 1.819 | 0.526 | 9 | 288M |
+| **DiffusionDB** | 70.65% | 2.970 | 0.385 | 9 | 288M |
 
 ### Ablation Study Highlights
 - **Removing quantum components** → CIDEr/BLEU-4 collapse to near-zero
